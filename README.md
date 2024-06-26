@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tbordini1
+ ## Hi, I’m Thais Bordini
+ 
 - 👀 I’m interested in front-end development, video games, music, concerts, hiking, and socializing with friends.
 - 🌱 I’m currently learning advanced JavaScript frameworks, such as React and Vue.js, as well as improving my skills in backend development.
 - 💞️ I’m looking to collaborate on exciting front-end projects, especially those that involve innovative UI/UX designs or are related to the gaming industry.
